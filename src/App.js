@@ -23,5 +23,5 @@ export default class App extends Component{
  2. 启动项目开发
     1). 使用react脚手架创建项目
     2). 开发环境运行: npm start
-    3). 生产环境打包运行: npm run build   serve build
+    3). 生产环境打包运行: npm run build  serve build
      */
